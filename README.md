@@ -12,4 +12,10 @@ applied skills:
 2. promise, receiving responses from API calls(e.g. http requests, DB calls)
 3. async, await (get the response only when i get response and i really do get it)
 4. assert (simalar to java, catching failed assertion by using try catch)
+5. DB calls, http calls
 
+useful links:
+https://www.npmjs.com/package/mocha-typescript#scafolding
+http://docs.sequelizejs.com/en/latest/docs/raw-queries/
+https://www.kancloud.cn/kancloud/promises-book/44248
+https://github.com/request/request-promise
